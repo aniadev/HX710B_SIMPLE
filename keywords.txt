@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map for Statistic Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+HX710B_SIMPLE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init KEYWORD2
+setReference KEYWORD2
+setMode KEYWORD2
+read KEYWORD2
+readVoltage KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
